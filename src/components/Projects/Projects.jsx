@@ -12,14 +12,14 @@ function Projects() {
         <ProjectCard
           src={Viberr}
           link="https://github.com/ctsang94"
-          h3="Viberr"
+          h3="iContract"
           p="Home Renovation Platform"
         />
         <ProjectCard
           src={Fitlift}
           link="https://github.com/ctsang94"
-          h3="Fitlift"
-          p="Lifting App"
+          h3="Travel List"
+          p="Travel List App"
         />
       </div>
     </section>
