@@ -1,7 +1,7 @@
 import React from "react";
 import styles from "./Projects.module.css";
-import Viberr from "../../assets/viberr.png";
-import Fitlift from '../../assets/fitlift.png'
+import Viberr from "../../assets/icontract2.png";
+import Fitlift from '../../assets/Travelsite2.png'
 import ProjectCard from "../../common/ProjectCard";
 
 function Projects() {
