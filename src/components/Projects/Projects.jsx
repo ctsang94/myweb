@@ -11,13 +11,13 @@ function Projects() {
       <div className={styles.projectsContainer}>
         <ProjectCard
           src={Viberr}
-          link="https://github.com/ctsang94"
+          link="https://icontract1.netlify.app/"
           h3="iContract"
           p="Home Renovation Platform"
         />
         <ProjectCard
           src={Fitlift}
-          link="https://github.com/ctsang94"
+          link="https://dashing-ganache-c8ecd1.netlify.app/"
           h3="Travel List"
           p="Travel List App"
         />
