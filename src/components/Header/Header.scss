@@ -1,0 +1,21 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    &__list{
+        display: flex;
+        gap: 2rem;
+        list-style-type: none;
+    }
+}
+
+/* Light theme */
+.header.light {
+    background-color: white;
+    color: black;
+  }
+
+  /* Dark theme */
+  .header.dark {
+    color: white;
+  }
