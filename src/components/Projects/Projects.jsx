@@ -3,7 +3,7 @@ import styles from "./Projects.module.css";
 import iContract from "../../assets/icontract2.png";
 import TravelSite from '../../assets/Travelsite2.png'
 import ProjectCard from "../../common/ProjectCard";
-import BrainFlix from '../../assets/image/BrainFlix.png';
+import BrainFlix from '../../assets/BrainFlix.png';
 
 function Projects() {
   return (
